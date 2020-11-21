@@ -2,8 +2,8 @@
 
 namespace App\Handlers;
 
-use Image;
-use Str;
+use Intervention\Image\Facades\Image;
+use Illuminate\Support\Str;
 
 class ImageUploadHandler
 {
